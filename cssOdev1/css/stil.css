@@ -1,0 +1,21 @@
+.ortala {
+justify-content: center;
+align-items: center;
+display: flex;
+}
+img{
+    width: 410px;
+    height: 300px;
+    border: 3px black solid;
+    border-radius: 20px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+.fs-40 {
+    font-size: 40px;
+}
+h1{font-size: 50px; font-style: oblique;text-shadow: 3px 3px 2px purple;}
